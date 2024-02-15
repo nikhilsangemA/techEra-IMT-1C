@@ -1,0 +1,45 @@
+.failureImg {
+  height: 100px;
+  width: 200px;
+}
+.mainContainer {
+  min-height: 100vh;
+  padding-left: 40px;
+  padding-right: 40px;
+  background-color: #eef4f7;
+}
+
+.heading {
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.ul-list {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.li-list1 {
+  width: 200px;
+  margin-bottom: 16px;
+  margin-right: 16px;
+  flex-grow: 1;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  color: #000000;
+  text-decoration: none;
+}
+
+img {
+  width: 100px;
+  height: 45px;
+}
+
+.link {
+  color: #000000;
+  text-decoration: none;
+}
